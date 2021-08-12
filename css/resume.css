@@ -91,7 +91,7 @@ h3.lead {
 }
 
 .social-icons a:hover {
-  background-color: #E8BEAC;
+  background-color: #ED8A99;
 }
 
 .dev-icons {
@@ -99,7 +99,7 @@ h3.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #E8BEAC;
+  color: #ED8A99;
 }
 
 .fa-pixiv {
@@ -239,15 +239,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #E8BEAC !important;
+  background-color: #ED8A99 !important;
 }
 
 .text-primary {
-  color: #E8BEAC !important;
+  color: #ED8A99 !important;
 }
 
 a {
-  color: #E8BEAC;
+  color: #ED8A99;
 }
 
 a:hover, a:focus, a:active {
