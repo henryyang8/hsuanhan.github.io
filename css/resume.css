@@ -102,12 +102,6 @@ h3.lead {
   color: #ED8A99;
 }
 
-.fa-pixiv {
-  content: url("../img/icons/pixiv.png");
-  width: 1.5rem;
-  height: 1.4rem;
-}
-
 .fa-tableau {
   content: url("../img/icons/tableau-dark.png");
   width: 3rem;
@@ -173,7 +167,7 @@ h3.lead {
 
 .fa-matlab {
   content: url("../img/icons/matlab-dark.png");
-  width: 3.5rem;
+  width: 4rem;
 }
 
 .fa-matlab:hover {
