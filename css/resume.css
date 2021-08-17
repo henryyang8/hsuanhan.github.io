@@ -113,7 +113,7 @@ h3.lead {
 
 .fa-sas {
   content: url("../img/icons/sas-dark.png");
-  width: 4.5rem;
+  width: 5rem;
 }
 
 .fa-sas:hover {
@@ -140,7 +140,7 @@ h3.lead {
 
 .fa-aws {
   content: url("../img/icons/aws-dark.png");
-  width: 3.5rem;
+  width: 4rem;
 }
 
 .fa-aws:hover {
