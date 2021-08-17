@@ -108,31 +108,31 @@ h3.lead {
   height: 1.4rem;
 }
 
-.fa-go {
-  content: url("../img/icons/go-dark.png");
-  width: 4rem;
+.fa-tableau {
+  content: url("../img/icons/tableau-dark.png");
+  width: 6rem;
 }
 
-.fa-go:hover {
-  content: url("../img/icons/go-primary.png");
+.fa-tableau:hover {
+  content: url("../img/icons/tableau-primary.png");
 }
 
-.fa-cpp {
-  content: url("../img/icons/cpp-dark.png");
-  width: 2.5rem;
+.fa-sas {
+  content: url("../img/icons/sas-dark.png");
+  width: 5rem;
 }
 
-.fa-cpp:hover {
-  content: url("../img/icons/cpp-primary.png");
+.fa-sas:hover {
+  content: url("../img/icons/sas-primary.png");
 }
 
-.fa-c {
-  content: url("../img/icons/c-dark.png");
-  width: 2.5rem;
+.fa-jmp {
+  content: url("../img/icons/jmp-dark.png");
+  width: 5rem;
 }
 
-.fa-c:hover {
-  content: url("../img/icons/c-primary.png");
+.fa-jmp:hover {
+  content: url("../img/icons/jmp-primary.png");
 }
 
 .fa-mysql {
@@ -144,22 +144,40 @@ h3.lead {
   content: url("../img/icons/mysql-primary.png");
 }
 
-.fa-photoshop {
-  content: url("../img/icons/adobe-photoshop-dark.png");
+.fa-aws {
+  content: url("../img/icons/aws-dark.png");
+  width: 4.5rem;
+}
+
+.fa-aws:hover {
+  content: url("../img/icons/aws-primary.png");
+}
+
+.fa-gcp {
+  content: url("../img/icons/gcp-dark.png");
+  width: 4.5rem;
+}
+
+.fa-gcp:hover {
+  content: url("../img/icons/gcp-primary.png");
+}
+
+.fa-azure {
+  content: url("../img/icons/azure-dark.png");
   width: 3rem;
 }
 
-.fa-photoshop:hover {
-  content: url("../img/icons/adobe-photoshop-primary.png");
+.fa-azure:hover {
+  content: url("../img/icons/azure-primary.png");
 }
 
-.fa-illustrator {
-  content: url("../img/icons/adobe-illustrator-dark.png");
-  width: 3rem;
+.fa-matlab {
+  content: url("../img/icons/matlab-dark.png");
+  width: 5rem;
 }
 
-.fa-illustrator:hover {
-  content: url("../img/icons/adobe-illustrator-primary.png");
+.fa-matlab:hover {
+  content: url("../img/icons/matlab-primary.png");
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
