@@ -91,7 +91,7 @@ h3.lead {
 }
 
 .social-icons a:hover {
-  background-color: #ED8A99;
+  background-color: #EDAD8A;
 }
 
 .dev-icons {
@@ -99,7 +99,7 @@ h3.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #ED8A99;
+  color: #EDAD8A;
 }
 
 .fa-tableau {
@@ -251,17 +251,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #ED8A99 !important;
+  background-color: #EDAD8A !important;
 }
 
 .text-primary {
-  color: #ED8A99 !important;
+  color: #EDAD8A !important;
 }
 
 a {
-  color: #ED8A99;
+  color: #EDAD8A;
 }
 
 a:hover, a:focus, a:active {
-  color: #ED8A99;
+  color: #EDAD8A;
 }
