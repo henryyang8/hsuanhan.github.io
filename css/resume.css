@@ -110,7 +110,7 @@ h3.lead {
 
 .fa-tableau {
   content: url("../img/icons/tableau-dark.png");
-  width: 6rem;
+  width: 8rem;
 }
 
 .fa-tableau:hover {
@@ -119,7 +119,7 @@ h3.lead {
 
 .fa-sas {
   content: url("../img/icons/sas-dark.png");
-  width: 5rem;
+  width: 4rem;
 }
 
 .fa-sas:hover {
@@ -128,7 +128,7 @@ h3.lead {
 
 .fa-jmp {
   content: url("../img/icons/jmp-dark.png");
-  width: 5rem;
+  width: 3.5rem;
 }
 
 .fa-jmp:hover {
@@ -146,7 +146,7 @@ h3.lead {
 
 .fa-aws {
   content: url("../img/icons/aws-dark.png");
-  width: 4.5rem;
+  width: 3.5rem;
 }
 
 .fa-aws:hover {
@@ -164,7 +164,7 @@ h3.lead {
 
 .fa-azure {
   content: url("../img/icons/azure-dark.png");
-  width: 3rem;
+  width: 2.5rem;
 }
 
 .fa-azure:hover {
@@ -173,7 +173,7 @@ h3.lead {
 
 .fa-matlab {
   content: url("../img/icons/matlab-dark.png");
-  width: 5rem;
+  width: 3.5rem;
 }
 
 .fa-matlab:hover {
