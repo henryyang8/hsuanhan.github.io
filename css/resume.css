@@ -12,6 +12,9 @@ body {
 }
 
 #about {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   height: 100vh;
 }
 
@@ -21,6 +24,8 @@ body {
     padding-left: 17rem;
   }
   #about {
+    background-position: right;
+    background-size: cover;
     background-color: #0AA9BA;
   }
 }
