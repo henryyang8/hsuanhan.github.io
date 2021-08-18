@@ -11,21 +11,13 @@ body {
   color: #868e96;
 }
 
-#about {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  height: 100vh;
-}
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
   }
   #about {
-    background-position: right;
-    background-size: cover;
+    float: left;
     background-color: #0AA9BA;
   }
 }
